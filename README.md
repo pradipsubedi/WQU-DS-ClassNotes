@@ -1,6 +1,6 @@
 ## WorldQuant University Data Science Course 
 
-This repo contains study materials, lab records, assignments assignment instructions, etc. of the 6 month programme, offered by **WQU**. 
+This repo contains study materials, lab records, assignments, assignment instructions, etc. of the 6 month programme, offered by **WQU**. 
 
 Checkout the programme guide for more details below ! <br>
 
